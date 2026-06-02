@@ -4,5 +4,5 @@ My Top 5 learnings
 3.Git commits save project history
 4.branch allow independent development
 5.Github can be used to host git repositories
-
+Additional learning note
 
